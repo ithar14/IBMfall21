@@ -38,3 +38,8 @@ Battery storage systems have provided a solution to flexibly integrate large-sca
 Problem: Solve the battery revenue optimization problem with the lowest circuit cost and circuit depth. Achieve better accuracy with smaller circuits. You can receive a badge for solving all the challenge exercises up to 4b. In addition, you can obtain a score with ranking by solving the last exercise 4c in this challenge.
 
 Level: Advanced
+* Simple knapsack problem with QAOA: familiarize yourself with a typical knapsack problem and find the optimized solution with QAOA.
+
+* Battery revenue optimization with Qiskit knapsack class: learn the battery revenue optimization problem and find the optimized solution with QAOA.
+
+* Battery revenue optimization with your own quantum circuit: implement the battery revenue optimization problem to find the lowest circuit cost and circuit depth. Achieve better accuracy with smaller circuits. 
