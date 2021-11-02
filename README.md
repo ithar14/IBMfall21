@@ -9,6 +9,11 @@ Portfolio optimization is a crucial process for anyone who wants to maximize ret
 Problem: Solve a four-stock portfolio optimization problem with a goal to find out a combination of assets that will minimize the tradeoff between risk and return.
 
 Level: Foundational
+* Learn how to use the PortfolioOptimization() method in Qiskit's Finance module to convert the portfolio optimization into a quadratic program.
+
+* Implement VQE to solve a four-stock portfolio optimization problem based on the instance created in challenge 1a.
+
+* Solve the same problem using QAOA with three budgets and double weights for any of the assets in your portfolio.
 
 ## Qiskit Nature - Band gap calculation of OLED molecules
 Quantum computers can be used for studying the electronic structure and dynamic properties of complex molecules and materials. With this challenge, you will use Qiskit to describe quantum computations of the “excited states” or high energy states, of industrial chemical compounds that could potentially be used in the fabrication of efficient organic light emitting diode (OLED) devices.
