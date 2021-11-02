@@ -16,6 +16,10 @@ Quantum computers can be used for studying the electronic structure and dynamic 
 Problem: Define target molecules as an eletronic structure problem and apply quantum algorithms to estimate the correct bandgap between reduced molecular orbitals.
 
 Level: Foundational
+* Understanding the atomic orbitals (AO), molecular orbitals (MO) and how to reduce the number of orbitals using active space transformation.
+* Calculating ground state energy of PSPCz molecule using NumPy and Variational Quantum Eigensolver (VQE).
+* Calculating excited state energy of PSPCz module using quantum Equation-of-Motion (QEOM) algorithm.
+* Running VQE on the cloud (simulator or real quantum system) using Qiskit Runtime.
 
 ## Qiskit Machine Learning - Image classification by QSVM
 Machine learning is a technology that has attracted a significant amount of attention due to its high performance and versatility, and quantum computation has the potential to further enhance it. In this challenge, you will implement image classification models using one of the methods of quantum machine learning; Quantum Support Vector Machine (QSVM).
@@ -23,6 +27,10 @@ Machine learning is a technology that has attracted a significant amount of atte
 Problem: Implement 3-class image classifier with QSVM and achieve better accuracy with smaller feature map circuits.
 
 Level: Intermediate
+
+* QSVM for binary classification of MNIST: familiarize yourself with a typical workflow for QSVM and find the best combination of dimentions/feature maps.
+
+* QSVM for 3-class classification of Fashion-MNIST
 
 ## Qiskit Optimization - Battery Revenue Optimization
 Battery storage systems have provided a solution to flexibly integrate large-scale renewable energy in a power system. The performance of a battery decreases while it is used, so you need to consider the degradation of each battery for figuring out the optimal battery scheduling. In this challenge, you are asked to optimize the battery revenue using a quantum computer and find the lowest circuit cost and circuit depth.
