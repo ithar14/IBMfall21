@@ -4,6 +4,9 @@
 <p align="center">
   <img src="IBMFALLChallenge.jpg" alt="Progress" width="70%" />
 </p>
+<p align="center">Score 3c : 108</p>
+
+
 
 a series of exercises designed to showcase some of quantum computing's different industry applications using Qiskit's application modules: Finance, Nature, Machine Learning, and Optimization.
 
