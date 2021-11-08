@@ -1,5 +1,9 @@
-# IBM Quantum Challenge Fall 2021
-Oct 27 — Nov 05
+# <p align="center">IBM Quantum Challenge Fall 2021</p>
+
+<p align="center">Oct 27 — Nov 05</p>
+<p align="center">
+  <img src="IBMFALLChallenge.jpg" alt="Progress" width="70%" />
+</p>
 
 a series of exercises designed to showcase some of quantum computing's different industry applications using Qiskit's application modules: Finance, Nature, Machine Learning, and Optimization.
 
